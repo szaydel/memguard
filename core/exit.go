@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/szaydel/memcall"
+	"github.com/awnumar/memcall"
 )
 
 /*
